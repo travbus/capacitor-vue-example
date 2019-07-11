@@ -3,12 +3,12 @@
   <access origin="*" />
   
   <feature name="Contacts">
-    <param name="ios-package" value="CDVContacts"/>
+    <param name="android-package" value="org.apache.cordova.contacts.ContactManager"/>
   </feature>
 
 
   <feature name="Sms">
-    <param name="ios-package" value="Sms"/>
+    <param name="android-package" value="com.cordova.plugins.sms.Sms"/>
   </feature>
 
   </widget>

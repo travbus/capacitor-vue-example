@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capVueTest</string>
+    <string name="title_activity_main">capVueTest</string>
+    <string name="package_name">com.capVueTest.app</string>
+    <string name="fileprovider_authority">com.capVueTest.app.fileprovider</string>
+    <string name="custom_url_scheme">com.capVueTest.app</string>
+
+    <string name="facebook_app_id">496194297535679</string>
+    <string name="fb_login_protocol_scheme">fb496194297535679</string>
+</resources>

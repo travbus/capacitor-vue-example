@@ -1,0 +1,7 @@
+{
+  "appId": "com.capVueTest.app",
+  "appName": "capVueTest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}

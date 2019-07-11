@@ -8,9 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@byteowls/capacitor-sms": "^1.0.0",
+    "@capacitor/android": "^1.1.0",
     "@capacitor/cli": "^1.1.0",
     "@capacitor/core": "^1.1.0",
     "@capacitor/ios": "^1.1.0",
+    "@ionic-native/contacts": "^5.9.0",
+    "@ionic-native/core": "^5.9.0",
+    "@rdlabo/capacitor-facebook-login": "^1.0.8",
+    "cor": "0.0.0",
+    "cordova-plugin-contacts": "^3.0.1",
+    "cordova-sms-plugin": "^1.0.0",
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
