@@ -119,7 +119,7 @@ export default {
   },
   created() {
     // register cap plugins
-    registerWebPlugin(SmsManager);
+    // registerWebPlugin(SmsManager);
     registerWebPlugin(FacebookLogin);
     // monitor network status
     // eslint-disable-next-line
