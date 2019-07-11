@@ -1,5 +1,18 @@
 # capacitor-vue-example
 
+
+To recreate project follow this tutorial
+https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
+
+Skip down to INTEGRATING CAPACITOR WITH VUE
+Tested with xcode on ios
+
+Facebook login plugin
+https://github.com/rdlabo/capacitor-facebook-login - used this plugin. Follow his example. I made it work with vue
+
+
+
+
 ## Project setup
 ```
 npm install
@@ -28,10 +41,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ###
-To recreate project follow this tutorial
-https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
-
-Skip down to INTEGRATING CAPACITOR WITH VUE
-Tested with xcode on ios
 
 
