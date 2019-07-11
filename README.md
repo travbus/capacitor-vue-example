@@ -8,7 +8,9 @@ Skip down to INTEGRATING CAPACITOR WITH VUE
 Tested with xcode on ios
 
 Facebook login plugin
-https://github.com/rdlabo/capacitor-facebook-login - used this plugin. Follow his example. I made it work with vue
+https://github.com/rdlabo/capacitor-facebook-login - used this plugin. Follow his example. I made it work with vue.
+If using vue there won't be a MainActivity file under a ionic folder but there will still be a MainActivity file and you need to add to
+add(jp.rdlabo.capacitor.plugin.facebook.FacebookLogin.class);
 
 
 
