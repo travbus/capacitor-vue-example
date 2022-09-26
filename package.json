@@ -10,7 +10,7 @@
   "dependencies": {
     "@byteowls/capacitor-sms": "^1.0.0",
     "@capacitor/android": "^1.1.0",
-    "@capacitor/cli": "^1.1.0",
+    "@capacitor/cli": "^1.5.3",
     "@capacitor/core": "^1.1.0",
     "@capacitor/ios": "^1.1.0",
     "@ionic-native/contacts": "^5.9.0",
